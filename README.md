@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xucongTHU
-- 👀 I’m interested Autonomous driving
+- 👀 I’m interested Autonomous Driving
 - 🌱 I’m currently learning BAIDU Apollo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
